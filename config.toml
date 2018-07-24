@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Meine neue Hugo Seite"
+theme = "hugo-theme-learn"
+publishDir = "../docs"
